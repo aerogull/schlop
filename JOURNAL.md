@@ -1,7 +1,15 @@
 ## May 23rd, 2026: Started with pcb design
 
-I started adding all the chips I needs to make this functional. I already know this is going to be a probably way to large project, but I'm committed now! The eArc chip is a SII9437CNUC, the DSP chip is a ADAU1467WBCPZ300 (90 pins TwT), and the DAC chip is a AK4458. I'm going for 32-bit audio, probably with 192 kHz bitrate (I wish it could go higher, but the DSP that's limiting this is already $22 USD). Reaearch took a little bit, but I'm almost done with it!
+I finised what I think is the final schematic. I decided against adding the joystick on this iteration and focus more time on ergonomics. I also finished placement and outline for the pcb.
 
 ![Alt text](images/1.png)
 
 **Total time spent: 3h**
+
+## May 27th, 2026: Finished pcb design
+
+I finished all of the pcb routing and got moutning holes on the pcb. I got pretty busy so not much work has been done, but CAD is next.
+
+![Alt text](images/2.png)
+
+**Total time spent: 1h**
